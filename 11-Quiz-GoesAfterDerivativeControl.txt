@@ -1,0 +1,17 @@
+1. Does your PD controller work without friction?
+-Yes
+-No
+
+Answer: Yes
+
+2. Does your PD controller work with friction?
+-Yes
+-No
+
+Answer: No
+
+3. Does your PD controller work with elevator mass of 1000 kg, counterweight mass of 1000 kg and people mass of 100 kg?
+-Yes
+-No
+
+Answer: No
